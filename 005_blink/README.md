@@ -4,8 +4,8 @@
  $   sudo insmod mod.ko
  $   sudo dmesg
 >[  327.459535] <1> Hello world from kernel!!
->>[  327.459594] <1> major number = 246    
- major number is not static
+[  327.459594] <1> major number = 246    
+> major number is not static
  $   sudo mknod /dev/MOD c 246 0
  
 
