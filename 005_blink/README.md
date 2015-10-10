@@ -10,7 +10,7 @@
 
 >[  327.459594] <1> major number = 246    
 
-> major number is not static
+> - major number is not static, you have to check major number
 
 4) $   sudo mknod /dev/MOD c 246 0
  
