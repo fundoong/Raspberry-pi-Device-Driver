@@ -1,6 +1,6 @@
-#1. module compile & run
+1. module compile & run
 
- $   sudo make
+1) $   sudo make
  $   sudo insmod mod.ko
  $   sudo dmesg
 [  327.459535] <1> Hello world from kernel!!
